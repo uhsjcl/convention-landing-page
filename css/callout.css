@@ -1,0 +1,10 @@
+.callout {
+    background: #c3c4ff;
+    width: 100%;
+}
+
+.callout-header {
+    padding: 25px 15px;
+    font-size: 12px;
+    color: black;
+}
