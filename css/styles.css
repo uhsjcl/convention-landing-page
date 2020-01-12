@@ -79,3 +79,8 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.center {
+	display: flex;
+	justify-content: center;
+}
